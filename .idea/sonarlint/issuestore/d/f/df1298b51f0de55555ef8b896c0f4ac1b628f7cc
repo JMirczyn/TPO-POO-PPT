@@ -1,0 +1,18 @@
+
+Ü
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(½ €ë8ÿïĞ¿ò1J$61ddc40d-6213-4c39-854a-3332155283c0
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(öÈÛì8óÏÉò1J$27308749-1906-43e7-8a7d-09a87b32c1b6
+r	java:S106"+Replace this use of System.out by a logger.(€²Ùåüÿÿÿÿ8áìÈ¿ò1J$66fd8e93-4a97-4d8b-bdb9-3e3e4192d3c6
+r	java:S106"+Replace this use of System.out by a logger.(Ò÷ßœÿÿÿÿÿ8áìÈ¿ò1J$7cb9880f-01c6-4b01-9c1a-e765d53c4ae9
+r	java:S106"+Replace this use of System.out by a logger.(ß™¥ıùÿÿÿÿ8âìÈ¿ò1J$dacf975b-4a0a-4d37-97fa-ed57de33a6c1
+r	java:S106"+Replace this use of System.out by a logger.(ÚÇØÿÿÿÿÿ8âìÈ¿ò1J$9ee513c4-8ccb-44d8-a807-85980c4a88eb
+m	java:S106!"+Replace this use of System.out by a logger.(ô‰8æìÈ¿ò1J$9c1fe221-a37a-4c0c-b249-971a6e45afdd
+r	java:S106$"+Replace this use of System.out by a logger.(ïëîşÿÿÿÿÿ8æìÈ¿ò1J$6f92fa28-b626-4644-8483-73cf0f8df397
+r	java:S106("+Replace this use of System.out by a logger.(ÙËÀ„ıÿÿÿÿ8çìÈ¿ò1J$e1b8d6c8-382f-416c-bb01-9b8ef0741ef3
+m	java:S106,"+Replace this use of System.out by a logger.(Ã‚Ùé8üÏÉò1J$2c1be927-cc23-4d51-a63c-dcac94d6b257
+r	java:S106-"+Replace this use of System.out by a logger.(İğùàşÿÿÿÿ8ıÏÉò1J$95225659-187c-4c62-87f0-b24e13ad1dd8
+l	java:S106."+Replace this use of System.out by a logger.(ÍµƒW8şÏÉò1J$d33d8a13-6890-4787-9473-9aca81ffdb2a
+l	java:S106/"+Replace this use of System.out by a logger.(Œáæo8ÿÏÉò1J$1b808dd0-df63-4f9c-b22f-766160e95a1c
+l	java:S1064"+Replace this use of System.out by a logger.(Ää€O8€ÏÉò1J$57495086-5d2e-412c-b585-e6e0cfd61400
+m	java:S1067"+Replace this use of System.out by a logger.(ô¢á8ĞĞÉò1J$6137d5d2-f384-4230-8ece-1c22edbe5f68

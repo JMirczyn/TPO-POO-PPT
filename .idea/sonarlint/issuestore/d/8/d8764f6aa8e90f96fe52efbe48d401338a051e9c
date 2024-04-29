@@ -1,0 +1,14 @@
+
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(½ €ë8ÿïĞ¿ò1
+z
+java:S1854"8Remove this useless assignment to local variable "game".(Çá‰b8ŞìÈ¿ò1J$2fc6b5c3-be63-4262-bbc1-c447f9eaa5dd
+k
+java:S1481")Remove this unused "game" local variable.(Çá‰b8àìÈ¿ò1J$42c796b4-f72d-4a8c-85cf-2bf10c28f4c8
+m	java:S106"+Replace this use of System.out by a logger.(Ò«Åî8áìÈ¿ò1J$fb8b038b-d463-4c16-b76c-5f3481b03979
+m	java:S106"+Replace this use of System.out by a logger.(Şğüª8áìÈ¿ò1J$024be178-8b3e-42cb-8189-4b1af061ced8
+m	java:S106"+Replace this use of System.out by a logger.(­˜¦«8âìÈ¿ò1J$2049b933-b87e-417b-9765-8d63d4a1aac6
+r	java:S106"+Replace this use of System.out by a logger.(çîÈúÿÿÿÿ8âìÈ¿ò1J$dccd04ed-962f-44d8-8685-e2208553005b
+m	java:S106!"+Replace this use of System.out by a logger.(ô‰8æìÈ¿ò1J$fb78152f-71fe-499e-b515-6e459fc137c2
+r	java:S106$"+Replace this use of System.out by a logger.(ïëîşÿÿÿÿÿ8æìÈ¿ò1J$1db9e4b9-8a3a-43a5-a019-3fab5ca64943
+r	java:S106("+Replace this use of System.out by a logger.(ÙËÀ„ıÿÿÿÿ8çìÈ¿ò1J$96ee95a8-0741-4f38-b20a-7b419e9384c9
