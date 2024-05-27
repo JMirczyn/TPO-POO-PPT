@@ -10,7 +10,7 @@ public class Jugador {
 
     public int opcion (){
         pantalla.mostrarMensaje("Elije: 0 para piedra, 1 para papel, 2 para tijera:");
-        return pantalla.obtenerOpcion();
+        return pantalla.obtenerEntrada();
     }
 
 }

@@ -10,11 +10,10 @@ import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
-        Arena arena = Arena.obtenerInstancia();
+        Arena arena = Arena.getInstance();
         Pantalla pantalla = new Pantalla();
         Jugador jugador = new Jugador(pantalla);
-        Oponente oponente = new Oponente();
-        Game game = new Game(arena, pantalla, jugador, oponente);
+        Game game = new Game(arena, pantalla, jugador);
         game.jugar();
 
     }
