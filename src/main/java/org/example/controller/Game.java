@@ -2,7 +2,6 @@ package org.example.controller;
 
 import org.example.model.Arena;
 import org.example.model.Jugador;
-import org.example.model.Oponente;
 import org.example.view.Pantalla;
 
 public class Game {
@@ -45,8 +44,7 @@ public class Game {
 
     public void jugar() {
         while (partidaEnCurso) {
-            pantalla.mostrarMensaje("Posicion: " + arena.getPuntosJugador()+3);
-            pantalla.mostrarMensaje("Posicion: " + arena.getPuntosOponente()+3);
+            pantalla.mostrarMensaje("Posicion: " + arena.getPuntosJugador());
 
             int opcionJugador = jugador.opcion();
 
@@ -68,6 +66,30 @@ public class Game {
                 pantalla.mostrarMensaje("¡Has sido derrotado!");
                 pantalla.mostrarMensaje("¡Mejor suerte la proxima!");
                 partidaEnCurso = false;
+            }
+        }
+    }
+
+    public void menu() {
+        boolean ejecutar = true;
+
+        while (ejecutar) {
+            pantalla.mostrarMensaje("Elije: 1 para iniciar partida, 2 para terminar partida, 3 para salir:");
+            int opcion = pantalla.obtenerEntrada();
+            switch (opcion) {
+                case 1:
+                    iniciarPartida();
+                    break;
+                case 2:
+                    terminarPartida();
+                    break;
+                case 3:
+                    ejecutar = false;
+                    pantalla.mostrarMensaje("Saliendo del juego");
+                    break;
+                default:
+                    pantalla.mostrarMensaje("Opcion no valida");
+                    break;
             }
         }
     }
